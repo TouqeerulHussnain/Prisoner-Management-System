@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{215492D9-F51B-4566-89F9-127666391923}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prisoner_try_2</RootNamespace>
+    <AssemblyName>prisoner_try_2</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\Quality\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CB34D33ECD3B0C585222E5F0E141CDA017AA245E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>prisoner_try_2_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\DataAccessLayer.cs" />
+    <Compile Include="DAL\FoodMngDataAccess.cs" />
+    <Compile Include="PAL\Gaurd\GuardDataAccess.cs" />
+    <Compile Include="MainConnection.cs" />
+    <Compile Include="PAL\controler\UC_FM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PAL\controler\UC_FM.Designer.cs">
+      <DependentUpon>UC_FM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\controler\UC_Guard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PAL\controler\UC_Guard.Designer.cs">
+      <DependentUpon>UC_Guard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\controler\UC_jailer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PAL\controler\UC_jailer.Designer.cs">
+      <DependentUpon>UC_jailer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\controler\UC_Prisoner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PAL\controler\UC_Prisoner.Designer.cs">
+      <DependentUpon>UC_Prisoner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_Add.Designer.cs">
+      <DependentUpon>FM_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_Delete.Designer.cs">
+      <DependentUpon>FM_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_Update.Designer.cs">
+      <DependentUpon>FM_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_View_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\FoodManager\FM_View_Search.Designer.cs">
+      <DependentUpon>FM_View_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Gaurd\addGaurd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Gaurd\addGaurd.Designer.cs">
+      <DependentUpon>addGaurd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Gaurd\deleteGaurd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Gaurd\deleteGaurd.Designer.cs">
+      <DependentUpon>deleteGaurd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Gaurd\updateGaurd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Gaurd\updateGaurd.Designer.cs">
+      <DependentUpon>updateGaurd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Gaurd\view_searchGaurd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Gaurd\view_searchGaurd.Designer.cs">
+      <DependentUpon>view_searchGaurd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Home\AboutUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Home\AboutUS.Designer.cs">
+      <DependentUpon>AboutUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Home\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Home\AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Home\Admin_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PAL\Home\Admin_Menu.Designer.cs">
+      <DependentUpon>Admin_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Home\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Home\HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Home\Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Home\Notification.Designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\JailerDataAccess.cs" />
+    <Compile Include="PAL\Jailer\J_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Add.Designer.cs">
+      <DependentUpon>J_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Delete.Designer.cs">
+      <DependentUpon>J_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Login.Designer.cs">
+      <DependentUpon>J_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_View_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_View_Search.Designer.cs">
+      <DependentUpon>J_View_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Jailer\J_Update.Designer.cs">
+      <DependentUpon>J_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Prisoner\addPrisoner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Prisoner\addPrisoner.Designer.cs">
+      <DependentUpon>addPrisoner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Prisoner\updatePrisoner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Prisoner\updatePrisoner.Designer.cs">
+      <DependentUpon>updatePrisoner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAL\Prisoner\viewPrisoners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Prisoner\viewPrisoners.Designer.cs">
+      <DependentUpon>viewPrisoners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PAL\controler\UC_FM.resx">
+      <DependentUpon>UC_FM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\controler\UC_Guard.resx">
+      <DependentUpon>UC_Guard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\controler\UC_jailer.resx">
+      <DependentUpon>UC_jailer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\controler\UC_Prisoner.resx">
+      <DependentUpon>UC_Prisoner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\FoodManager\FM_Add.resx">
+      <DependentUpon>FM_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\FoodManager\FM_Delete.resx">
+      <DependentUpon>FM_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\FoodManager\FM_Update.resx">
+      <DependentUpon>FM_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\FoodManager\FM_View_Search.resx">
+      <DependentUpon>FM_View_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Gaurd\addGaurd.resx">
+      <DependentUpon>addGaurd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Gaurd\deleteGaurd.resx">
+      <DependentUpon>deleteGaurd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Gaurd\updateGaurd.resx">
+      <DependentUpon>updateGaurd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Gaurd\view_searchGaurd.resx">
+      <DependentUpon>view_searchGaurd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Home\AboutUS.resx">
+      <DependentUpon>AboutUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Home\AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Home\Admin_Menu.resx">
+      <DependentUpon>Admin_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Home\HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Home\Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Jailer\J_Add.resx">
+      <DependentUpon>J_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Jailer\J_Delete.resx">
+      <DependentUpon>J_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Jailer\J_Login.resx">
+      <DependentUpon>J_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Jailer\J_View_Search.resx">
+      <DependentUpon>J_View_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Jailer\J_Update.resx">
+      <DependentUpon>J_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Prisoner\addPrisoner.resx">
+      <DependentUpon>addPrisoner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Prisoner\updatePrisoner.resx">
+      <DependentUpon>updatePrisoner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Prisoner\viewPrisoners.resx">
+      <DependentUpon>viewPrisoners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="prisoner_try_2_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prisoner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

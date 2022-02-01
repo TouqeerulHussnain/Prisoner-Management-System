@@ -1,0 +1,203 @@
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.config
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Home.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Properties.Resources.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.GenerateResource.Cache
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csprojResolveAssemblyReference.cache
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Add.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Delete.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Update.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_View_Search.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_View_Search.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Login.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Admin_Menu.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Add.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Delete.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Update.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.config
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.pdb
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.AssemblyReference.cache
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Add.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Delete.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Update.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_View_Search.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Admin_Menu.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Home.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Add.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Delete.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Login.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_View_Search.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Update.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Properties.Resources.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.GenerateResource.cache
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.CoreCompileInputs.cache
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.pdb
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.addPrisoner.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.addGaurd.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.searchPrisoner.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.updatePrisoner.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.viewPrisoners.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.deleteGaurd.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.updateGaurd.resources
+C:\Users\MZ COMPUTERS\Desktop\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.view_searchGaurd.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.config
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\mscorlib.dll
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normidna.nlp
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfc.nlp
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfd.nlp
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkc.nlp
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkd.nlp
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csprojResolveAssemblyReference.cache
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Add.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Delete.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Update.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_View_Search.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.addGaurd.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.deleteGaurd.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.updateGaurd.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.view_searchGaurd.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Admin_Menu.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Home.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Add.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Delete.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Login.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_View_Search.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Update.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.addPrisoner.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.searchPrisoner.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.updatePrisoner.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.viewPrisoners.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Properties.Resources.resources
+C:\Users\Touqeer\Downloads\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.GenerateResource.Cache
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.config
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csprojResolveAssemblyReference.cache
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\mscorlib.dll
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normidna.nlp
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfc.nlp
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfd.nlp
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkc.nlp
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkd.nlp
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Add.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Delete.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Update.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_View_Search.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.addGaurd.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.deleteGaurd.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.updateGaurd.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.view_searchGaurd.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Admin_Menu.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Home.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Add.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Delete.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Login.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_View_Search.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Update.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.addPrisoner.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.searchPrisoner.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.updatePrisoner.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.viewPrisoners.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Properties.Resources.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.GenerateResource.Cache
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Login.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_FM.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_Guard.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_Prisoner.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_jailer.resources
+C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\construction\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.loginGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.config
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\mscorlib.dll
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normidna.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfc.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfd.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkc.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkd.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csprojResolveAssemblyReference.cache
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_FM.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_Guard.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_jailer.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_Prisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Add.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Delete.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Login.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Update.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_View_Search.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.addGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.deleteGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.loginGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.updateGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.view_searchGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Admin_Menu.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Home.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Add.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Delete.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Login.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_View_Search.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Update.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.addPrisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.searchPrisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.updatePrisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.viewPrisoners.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Properties.Resources.resources
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.GenerateResource.Cache
+C:\Users\Touqeer\Desktop\prisoner_try_3_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Notification.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.config
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.pdb
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\mscorlib.dll
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normidna.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfc.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfd.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkc.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\normnfkd.nlp
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csprojResolveAssemblyReference.cache
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_FM.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_Guard.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_jailer.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.controler.UC_Prisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Add.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Delete.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_Update.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.FoodManager.FM_View_Search.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.addGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.deleteGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.updateGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Gaurd.view_searchGaurd.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Admin_Menu.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Home.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.Notification.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Add.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Delete.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Login.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_View_Search.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Jailer.J_Update.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.addPrisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.updatePrisoner.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Prisoner.viewPrisoners.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.Properties.Resources.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.csproj.GenerateResource.Cache
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.exe.manifest
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\bin\Debug\prisoner_try_2.application
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.exe.manifest
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.application
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.AdminLogin.resources
+C:\Users\Touqeer\Desktop\prisoner_try_4_abdullah\prisoner_try_2\prisoner_try_2\obj\Debug\prisoner_try_2.PAL.Home.AboutUS.resources
