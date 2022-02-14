@@ -20,7 +20,7 @@ namespace prisoner_try_2.PAL.Gaurd
         int check = 0;   // checking for existing prisoner id.
         int prisnerID;      // checking for existing prisoner id.
         int prisnerID2; // checking for existing prisoner id.
-        string lastID;  // put next id while adding new record.
+        int lastID;  // put next id while adding new record.
         
         public addGaurd()
         {
@@ -85,11 +85,11 @@ namespace prisoner_try_2.PAL.Gaurd
 
             while (reader.Read())
             {
-                lastID = reader["guardID"].ToString();
+                lastID = int.Parse(reader["guardID"].ToString());
 
             }
-             
-            txtID.Text = lastID;
+            lastID = lastID + 1;
+            txtID.Text = lastID.ToString();
         }
     }
 }

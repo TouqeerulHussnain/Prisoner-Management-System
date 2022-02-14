@@ -56,6 +56,12 @@ namespace prisoner_try_2
                 btnGaurd.Show();
                 btnPrisoner.Show();
                 btnLoginAdmin.Hide();
+                btnJailerLogin.Text = "   Logout";
+
+                btnJailerLogin.ForeColor = Color.White;
+                btnMasterLogin.Hide();
+                lableMaster.Hide();
+            
             }
             if (DataAccessLayer.loginSecure == 1)
             {
@@ -66,9 +72,15 @@ namespace prisoner_try_2
                 btnJailerMenu.Show();
                 btnFoodManagerMenu.Show();
                 btnJailerLogin.Hide();
+                btnLoginAdmin.Text = "   Logout";
+
+                btnLoginAdmin.ForeColor = Color.White;
+                btnMasterLogin.Hide();
+                lableMaster.Hide();
+
                 
             }
-
+            
             
             
             
@@ -250,11 +262,10 @@ namespace prisoner_try_2
         private void button3_Click_1(object sender, EventArgs e)
         {
             
-            this.Hide();
 
             if (JailerDataAccess.loginSecure == 1)
             {
-                result = MessageBox.Show("want to log out", "Warning", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
+                result = MessageBox.Show("Want to log out", "Warning", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
                 if (result == DialogResult.Cancel)
                 {
                     JailerDataAccess.loginSecure = 1;
@@ -263,13 +274,14 @@ namespace prisoner_try_2
                 {
                     JailerDataAccess.loginSecure = 0;
                 }
-
+                this.Hide();
                 Home h = new Home();
                 h.Show();
                 //this.Show();
             }
             else
             {
+                this.Hide();
                 J_Login login = new J_Login();
                 login.Show();
             }
@@ -281,11 +293,11 @@ namespace prisoner_try_2
         {
             
             
-            this.Hide();
+            
 
             if (DataAccessLayer.loginSecure == 1)
             {
-                result = MessageBox.Show("want to log out", "Warning", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
+                result = MessageBox.Show("Want to log out", "Warning", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
                 if (result == DialogResult.Cancel)
                 {
                     DataAccessLayer.loginSecure = 1;
@@ -294,13 +306,14 @@ namespace prisoner_try_2
                 {
                     DataAccessLayer.loginSecure = 0;
                 }
-
+                this.Hide();
                 Home h = new Home();
                 h.Show();
                 //this.Show();
             }
             else
             {
+                this.Hide();
                 AdminLogin login = new AdminLogin();
                 login.Show();
             }
@@ -318,8 +331,11 @@ namespace prisoner_try_2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            J_Login login = new J_Login();
+            
+            MasterLogin login = new MasterLogin();
             login.Show();
+            this.Hide();
+           
         }
 
         private void button1_Click(object sender, EventArgs e)

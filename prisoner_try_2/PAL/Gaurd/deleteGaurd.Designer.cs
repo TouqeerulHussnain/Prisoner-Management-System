@@ -69,7 +69,7 @@
             this.btnAddJailer.Name = "btnAddJailer";
             this.btnAddJailer.Size = new System.Drawing.Size(230, 46);
             this.btnAddJailer.TabIndex = 106;
-            this.btnAddJailer.Text = "Delete Jailer";
+            this.btnAddJailer.Text = "Delete ";
             this.btnAddJailer.UseVisualStyleBackColor = true;
             this.btnAddJailer.Click += new System.EventHandler(this.btnAddJailer_Click);
             // 

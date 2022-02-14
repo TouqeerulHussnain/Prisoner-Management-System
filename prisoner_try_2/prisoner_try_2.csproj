@@ -13,7 +13,7 @@
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\Touqeer\OneDrive - Higher Education Commission\5th semester\Quality\</PublishUrl>
+    <PublishUrl>C:\Users\Touqeer\Desktop\Prisoner management System Final version\prisoner_try_2\Data\Publish File\new publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -173,6 +173,12 @@
     <Compile Include="PAL\Home\HomePage.Designer.cs">
       <DependentUpon>HomePage.cs</DependentUpon>
     </Compile>
+    <Compile Include="PAL\Home\MasterLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAL\Home\MasterLogin.Designer.cs">
+      <DependentUpon>MasterLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="PAL\Home\Notification.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -278,6 +284,9 @@
     <EmbeddedResource Include="PAL\Home\HomePage.resx">
       <DependentUpon>HomePage.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PAL\Home\MasterLogin.resx">
+      <DependentUpon>MasterLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PAL\Home\Notification.resx">
       <DependentUpon>Notification.cs</DependentUpon>
     </EmbeddedResource>
@@ -315,6 +324,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="ClassDiagram1.cd" />
     <None Include="prisoner_try_2_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

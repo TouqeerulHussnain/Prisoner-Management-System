@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using prisoner_try_2;
 using prisoner_try_2.DAL;
 using prisoner_try_2.PAL;
+using System.Data.SqlClient;
+using System.Data.Sql;
 namespace prisoner_try_2.PAL.Jailer
 {
     public partial class J_Login : Form
@@ -24,59 +26,58 @@ namespace prisoner_try_2.PAL.Jailer
             
         }
         string password;
-        int Master_ID = 7420;
-        string Master_Password = "7420";
         int id;
         string passwordEntered;
+        int CheckID;
+        int cmboID;
         private void btnAddJailer_Click(object sender, EventArgs e)
         {
-            
-           
+
+            id = int.Parse(cmbLoginId.Text);
             passwordEntered = txtPassword.Text;
-            id = int.Parse(txtName.Text);
+            //id = int.Parse(txtName.Text);
             #region With Adapter login
-            if (JailerDataAccess.MasterLogin == 0)
+
+            SqlDataReader reader = JailerDataAccess.GetJailerIds();
+            while (reader.Read())
             {
                 
-                DataSet dt = JailerDataAccess.Get_E_ThroughtDataAdapter(id);
-                DataRow row = dt.Tables[0].Rows[0];
-                password = row.ItemArray.GetValue(2).ToString();
-                if (password == passwordEntered)
-                {
-                    MessageBox.Show("Logined");
-                    this.Hide();
-                    JailerDataAccess.loginSecure = 1;
 
-                    prisoner_try_2.Home h = new prisoner_try_2.Home();
-                    h.Show();
-                    
+            }
+            
+            DataSet dt = JailerDataAccess.Get_E_ThroughtDataAdapter(id);
+            DataRow row = dt.Tables[0].Rows[0];
+            password = row.ItemArray.GetValue(2).ToString();
+            if (password == passwordEntered)
+            {
+                this.Hide();
+                JailerDataAccess.loginSecure = 1;
 
-                    
+                prisoner_try_2.Home h = new prisoner_try_2.Home();
+                h.Show();
 
-                }
-                else
-                {
-                    MessageBox.Show("Invalid Inputs");
-                }
+
+
 
             }
             else
             {
-                if (id == Master_ID && passwordEntered == Master_Password)
-                {
-                    MessageBox.Show("Logined");
-                    this.Hide();
-                    JailerDataAccess.loginSecure = 1;
-                   
-                    
-                }
-
+                MessageBox.Show("Invalid Inputs");
             }
+
+            
+            
             #endregion
         }
 
         private void J_Login_Load(object sender, EventArgs e)
         {
+            SqlDataReader reader = JailerDataAccess.GetJailerIds();
+            while (reader.Read())
+            {
+
+                cmbLoginId.Items.Add(reader["jailerID"].ToString());
+            }
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -97,6 +98,13 @@ namespace prisoner_try_2.PAL.Jailer
         private void txtName_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            prisoner_try_2.Home h = new prisoner_try_2.Home();
+            h.Show();
         }
     }
 }

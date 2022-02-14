@@ -19,26 +19,21 @@ namespace prisoner_try_2.PAL.Home
         }
         int AdminID = 1234;
         string AdminPass = "abcd";
-        string password = "abcd";
-        int Master_ID = 7420;
-        string Master_Password = "7420";
         int id;
         string passwordEntered;
         private void btnAddJailer_Click(object sender, EventArgs e)
         {
-
+            
             passwordEntered = txtPassword.Text;
             id = int.Parse(txtName.Text);
             #region With Adapter login
-            if (DataAccessLayer.MasterLogin == 0)
-            {
 
+            
                 
                 if (id == AdminID)
                 {
                     if (AdminPass == passwordEntered)
                     {
-                        MessageBox.Show("Logined");
                         this.Hide();
                         DataAccessLayer.loginSecure = 1;
 
@@ -53,24 +48,55 @@ namespace prisoner_try_2.PAL.Home
                     {
                         MessageBox.Show("Invalid Inputs");
                     }
-                }
-                else
-                {
-                    if (id == Master_ID && passwordEntered == Master_Password)
-                    {
-                        MessageBox.Show("Logined");
-                        this.Hide();
-                        DataAccessLayer.loginSecure = 1;
-
-
-                    }
-
-                }
+                
+                
             #endregion
             }
         }
 
         private void AdminLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            prisoner_try_2.Home h = new prisoner_try_2.Home();
+            h.Show();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtName_TextChanged(object sender, EventArgs e)
         {
 
         }

@@ -18,7 +18,7 @@ namespace prisoner_try_2.PAL.FoodManager
         int check = 0;   // checking for existing prisoner id.
         int prisnerID;      // checking for existing prisoner id.
         int prisnerID2; // checking for existing prisoner id.
-        string lastID;  // put next id while adding new record.
+        int lastID;  // put next id while adding new record.
 
         public FM_Add()
         {
@@ -31,11 +31,11 @@ namespace prisoner_try_2.PAL.FoodManager
 
             while (reader.Read())
             {
-                lastID = reader["FoodMangID"].ToString();
+                lastID = int.Parse(reader["FoodMangID"].ToString());
 
             }
-
-            txtID.Text = lastID;
+            lastID = lastID + 1;
+            txtID.Text = lastID.ToString();
 
         }
 

@@ -56,9 +56,9 @@
             this.label2.ForeColor = System.Drawing.Color.DarkBlue;
             this.label2.Location = new System.Drawing.Point(476, 87);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(261, 28);
+            this.label2.Size = new System.Drawing.Size(228, 28);
             this.label2.TabIndex = 11;
-            this.label2.Text = "To Show all Gaurd Data";
+            this.label2.Text = "To Show all Prisoner";
             // 
             // btnshowall
             // 
@@ -80,7 +80,7 @@
             this.btnSearchPrisoner.Name = "btnSearchPrisoner";
             this.btnSearchPrisoner.Size = new System.Drawing.Size(264, 31);
             this.btnSearchPrisoner.TabIndex = 9;
-            this.btnSearchPrisoner.Text = "Search Gaurd";
+            this.btnSearchPrisoner.Text = "Search ";
             this.btnSearchPrisoner.UseVisualStyleBackColor = true;
             this.btnSearchPrisoner.Click += new System.EventHandler(this.btnsrchgaurd_Click);
             // 

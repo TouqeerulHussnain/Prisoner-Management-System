@@ -136,7 +136,7 @@ namespace prisoner_try_2
 
         public static DataSet RelaeseToday(string end)//------------connected layer with datareader
         {                                                                   // use to fill other items except combo box 
-            string qry = "select * from Prisoner_T where pReleaseDate >= @end;";
+            string qry = "select * from Prisoner_T where pReleaseDate = @end;";
             SqlConnection con = GetConnection();
 
             SqlCommand cmd = new SqlCommand(qry, con);

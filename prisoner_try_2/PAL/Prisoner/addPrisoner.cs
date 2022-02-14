@@ -18,7 +18,7 @@ namespace prisoner_try_2.PAL.Prisoner
         int check = 0;   // checking for existing prisoner id.
         int prisnerID;      // checking for existing prisoner id.
         int prisnerID2; // checking for existing prisoner id.
-        string lastID;  // put next id while adding new record.
+        int lastID;  // put next id while adding new record.
 
         public addPrisoner()
         {
@@ -46,11 +46,11 @@ namespace prisoner_try_2.PAL.Prisoner
             
             while (reader.Read())
             {
-                lastID = reader["prisonerId"].ToString();
+                lastID = int.Parse(reader["prisonerId"].ToString());
                
             }
             lastID = lastID + 1;
-            txtID.Text = lastID ;
+            txtID.Text = lastID.ToString() ;
         }
 
         private void txtID_TextChanged(object sender, EventArgs e)

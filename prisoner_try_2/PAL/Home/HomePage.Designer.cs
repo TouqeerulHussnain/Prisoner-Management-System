@@ -36,8 +36,8 @@
             this.SlidePanel = new System.Windows.Forms.Panel();
             this.btnPrisoner = new System.Windows.Forms.Button();
             this.btnGaurd = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
+            this.lableMaster = new System.Windows.Forms.Label();
+            this.btnMasterLogin = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -48,7 +48,6 @@
             this.btnLoginAdmin = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panalContainPanals = new System.Windows.Forms.Panel();
-            this.lable = new System.Windows.Forms.Label();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -90,13 +89,12 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.MediumBlue;
-            this.panel2.Controls.Add(this.lable);
             this.panel2.Controls.Add(this.button4);
             this.panel2.Controls.Add(this.SlidePanel);
             this.panel2.Controls.Add(this.btnPrisoner);
             this.panel2.Controls.Add(this.btnGaurd);
-            this.panel2.Controls.Add(this.label2);
-            this.panel2.Controls.Add(this.button2);
+            this.panel2.Controls.Add(this.lableMaster);
+            this.panel2.Controls.Add(this.btnMasterLogin);
             this.panel2.Controls.Add(this.pictureBox5);
             this.panel2.Controls.Add(this.pictureBox4);
             this.panel2.Controls.Add(this.pictureBox3);
@@ -164,35 +162,35 @@
             this.btnGaurd.UseVisualStyleBackColor = false;
             this.btnGaurd.Click += new System.EventHandler(this.btnGaurd_Click);
             // 
-            // label2
+            // lableMaster
             // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Blue;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(43, 430);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 20);
-            this.label2.TabIndex = 36;
-            this.label2.Text = "Master Key";
+            this.lableMaster.AutoSize = true;
+            this.lableMaster.BackColor = System.Drawing.Color.Blue;
+            this.lableMaster.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lableMaster.ForeColor = System.Drawing.Color.White;
+            this.lableMaster.Location = new System.Drawing.Point(43, 430);
+            this.lableMaster.Name = "lableMaster";
+            this.lableMaster.Size = new System.Drawing.Size(88, 20);
+            this.lableMaster.TabIndex = 36;
+            this.lableMaster.Text = "Master Key";
             // 
-            // button2
+            // btnMasterLogin
             // 
-            this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button2.BackColor = System.Drawing.Color.Blue;
-            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(12, 405);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(64, 45);
-            this.button2.TabIndex = 3;
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnMasterLogin.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnMasterLogin.BackColor = System.Drawing.Color.Blue;
+            this.btnMasterLogin.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnMasterLogin.FlatAppearance.BorderSize = 0;
+            this.btnMasterLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnMasterLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMasterLogin.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.btnMasterLogin.Image = ((System.Drawing.Image)(resources.GetObject("btnMasterLogin.Image")));
+            this.btnMasterLogin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnMasterLogin.Location = new System.Drawing.Point(12, 405);
+            this.btnMasterLogin.Name = "btnMasterLogin";
+            this.btnMasterLogin.Size = new System.Drawing.Size(64, 45);
+            this.btnMasterLogin.TabIndex = 3;
+            this.btnMasterLogin.UseVisualStyleBackColor = false;
+            this.btnMasterLogin.Click += new System.EventHandler(this.button2_Click);
             // 
             // pictureBox5
             // 
@@ -319,17 +317,6 @@
             this.panalContainPanals.TabIndex = 53;
             this.panalContainPanals.Paint += new System.Windows.Forms.PaintEventHandler(this.panalContainPanals_Paint);
             // 
-            // lable
-            // 
-            this.lable.AutoSize = true;
-            this.lable.Font = new System.Drawing.Font("SimSun", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lable.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lable.Location = new System.Drawing.Point(28, 450);
-            this.lable.Name = "lable";
-            this.lable.Size = new System.Drawing.Size(35, 13);
-            this.lable.TabIndex = 40;
-            this.lable.Text = "7240";
-            // 
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -359,8 +346,8 @@
         private System.Windows.Forms.Button btnJailerMenu;
         private System.Windows.Forms.Button btnFoodManagerMenu;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label lableMaster;
+        private System.Windows.Forms.Button btnMasterLogin;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox3;
@@ -375,7 +362,6 @@
         private System.Windows.Forms.Button btnJailerLogin;
         private System.Windows.Forms.Button btnLoginAdmin;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Label lable;
     }
 }
 

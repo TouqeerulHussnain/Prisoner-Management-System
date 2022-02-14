@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prisoner_try_2.DataAccessLayer">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAIAAAICABAAACAAAAAAAAACAEAAAAAAAAAAAEAA=</HashCode>
+      <FileName>DAL\DataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prisoner_try_2.PAL.FoodManager.FoodMngDataAccess">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAEAAAAAAAAAAAAAAAAAAAAEAABAAAAAAIAEAA=</HashCode>
+      <FileName>DAL\FoodMngDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prisoner_try_2.PAL.Jailer.JailerDataAccess">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAICAAAAAgAAAAAAAAAAAEAABAAAAAAAAGAA=</HashCode>
+      <FileName>DAL\JailerDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prisoner_try_2.DAL.GuardDataAccess">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAACAAgAAAAAAAAAAAEAABAAAAAAAAGAA=</HashCode>
+      <FileName>PAL\Gaurd\GuardDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prisoner_try_2.MainConnection">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>MainConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

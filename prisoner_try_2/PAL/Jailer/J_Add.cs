@@ -16,7 +16,7 @@ namespace prisoner_try_2.PAL.Jailer
         int check = 0;   // checking for existing prisoner id.
         int prisnerID;      // checking for existing prisoner id.
         int prisnerID2; // checking for existing prisoner id.
-        string lastID;  // put next id while adding new record.
+        int lastID;  // put next id while adding new record.
 
         public J_Add()
         {
@@ -29,11 +29,11 @@ namespace prisoner_try_2.PAL.Jailer
 
             while (reader.Read())
             {
-                lastID = reader["jailerID"].ToString();
+                lastID = int.Parse(reader["jailerID"].ToString());
 
             }
             lastID = lastID + 1;
-            txtID.Text = lastID;
+            txtID.Text = lastID.ToString();
         }
 
         private void btnAddJailer_Click(object sender, EventArgs e)
